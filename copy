@@ -1,0 +1,11 @@
+npm init -y done
+
+npm i express cors ytdl-core lodash child_process ffmpeg-static sanitize-filename done
+
+inside client done
+npm i axios react-spinners
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+note : 
+after installation of tailwindcss do copy the configfile
